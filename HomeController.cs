@@ -1,11 +1,11 @@
-﻿using fahad_029.Models;
+﻿using fazeel_028.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace fahad_029.Controllers
+namespace fazeel_028.Controllers
 {
     public class HomeController : Controller
     {
