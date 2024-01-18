@@ -8,7 +8,7 @@ using System.Web;
 using System.Web.Mvc;
 using fahad_029.Models;
 
-namespace fahad_029.Controllers
+namespace fazeel_028.Controllers
 {
     public class M_ProductController : Controller
     {
